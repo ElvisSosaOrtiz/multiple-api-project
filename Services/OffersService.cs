@@ -135,7 +135,7 @@
             }
         }
 
-        public async Task<CompanyThreeOfferModel?> GetCompanyThreeOfferAsync(CompanyThreeDeliveryInfoModel deliveryInfo)
+        private async Task<CompanyThreeOfferModel?> GetCompanyThreeOfferAsync(CompanyThreeDeliveryInfoModel deliveryInfo)
         {
             try
             {
