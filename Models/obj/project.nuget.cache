@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjML/4iwluI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elvis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

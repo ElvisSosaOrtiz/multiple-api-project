@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Company1.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78665038-524C-43DC-A4C2-E761BCBB1D94}|..\\Tests\\Tests.csproj|c:\\users\\elvis\\desktop\\technicaltest\\tests\\offersservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20FD4B6-28CB-4FFA-A3E2-133C2A33F704}|..\\Services\\Services.csproj|c:\\users\\elvis\\desktop\\technicaltest\\services\\companyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665038-524C-43DC-A4C2-E761BCBB1D94}|..\\Tests\\Tests.csproj|c:\\users\\elvis\\desktop\\technicaltest\\tests\\companyapiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665038-524C-43DC-A4C2-E761BCBB1D94}|..\\Tests\\Tests.csproj|c:\\users\\elvis\\desktop\\technicaltest\\tests\\builders\\offersservicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20FD4B6-28CB-4FFA-A3E2-133C2A33F704}|..\\Services\\Services.csproj|c:\\users\\elvis\\desktop\\technicaltest\\services\\offersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6398908-7AA9-426A-9766-7766AFE982E6}|..\\CompanyAPIDependencyInjector\\CompanyAPIDependencyInjector.csproj|c:\\users\\elvis\\desktop\\technicaltest\\companyapidependencyinjector\\dependencyinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78665038-524C-43DC-A4C2-E761BCBB1D94}|..\\Tests\\Tests.csproj|c:\\users\\elvis\\desktop\\technicaltest\\tests\\builders\\companyapiservicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20FD4B6-28CB-4FFA-A3E2-133C2A33F704}|..\\Services\\Services.csproj|c:\\users\\elvis\\desktop\\technicaltest\\services\\jsonconvertwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87448BFC-AB7F-47FC-98E2-6D6ADD4DA2E2}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\users\\elvis\\desktop\\technicaltest\\servicecontracts\\ijsonconvertwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OffersServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\OffersServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\OffersServiceTests.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\OffersServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\OffersServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:33:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyAPIServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\CompanyAPIServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\CompanyAPIServiceTests.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\CompanyAPIServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\CompanyAPIServiceTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:01:50.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjector.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\CompanyAPIDependencyInjector\\DependencyInjector.cs",
+              "RelativeDocumentMoniker": "..\\CompanyAPIDependencyInjector\\DependencyInjector.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\CompanyAPIDependencyInjector\\DependencyInjector.cs",
+              "RelativeToolTip": "..\\CompanyAPIDependencyInjector\\DependencyInjector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:50:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonConvertWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\JsonConvertWrapper.cs",
+              "RelativeDocumentMoniker": "..\\Services\\JsonConvertWrapper.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\JsonConvertWrapper.cs",
+              "RelativeToolTip": "..\\Services\\JsonConvertWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:49:54.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJsonConvertWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\ServiceContracts\\IJsonConvertWrapper.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\IJsonConvertWrapper.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\ServiceContracts\\IJsonConvertWrapper.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\IJsonConvertWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:48:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OffersServiceBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\Builders\\OffersServiceBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Builders\\OffersServiceBuilder.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\Builders\\OffersServiceBuilder.cs",
+              "RelativeToolTip": "..\\Tests\\Builders\\OffersServiceBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:43:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyAPIServiceBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\Builders\\CompanyAPIServiceBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Builders\\CompanyAPIServiceBuilder.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Tests\\Builders\\CompanyAPIServiceBuilder.cs",
+              "RelativeToolTip": "..\\Tests\\Builders\\CompanyAPIServiceBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:37:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\CompanyAPIService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CompanyAPIService.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\CompanyAPIService.cs",
+              "RelativeToolTip": "..\\Services\\CompanyAPIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:52:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OffersService.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\OffersService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\OffersService.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\TechnicalTest\\Services\\OffersService.cs",
+              "RelativeToolTip": "..\\Services\\OffersService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAI4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:07:09.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

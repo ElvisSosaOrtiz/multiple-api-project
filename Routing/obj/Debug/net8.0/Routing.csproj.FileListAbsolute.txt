@@ -1,0 +1,11 @@
+C:\Users\elvis\Desktop\TechnicalTest\Routing\bin\Debug\net8.0\Routing.deps.json
+C:\Users\elvis\Desktop\TechnicalTest\Routing\bin\Debug\net8.0\Routing.dll
+C:\Users\elvis\Desktop\TechnicalTest\Routing\bin\Debug\net8.0\Routing.pdb
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.AssemblyInfoInputs.cache
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.AssemblyInfo.cs
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.dll
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\refint\Routing.dll
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\Routing.pdb
+C:\Users\elvis\Desktop\TechnicalTest\Routing\obj\Debug\net8.0\ref\Routing.dll
